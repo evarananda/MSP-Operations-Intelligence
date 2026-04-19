@@ -1,0 +1,43 @@
+-- ============================================================
+-- Measure: Coverage Pressure Score
+-- Table:   Cities_Silver
+--
+-- Calculates a weighted operational pressure score per city,
+-- normalised by technician headcount.
+--
+-- Weights: Critical=4, High=3, Medium=2, Low=1
+-- Also factors in overdue assets per city.
+--
+-- Uses FILTER() instead of CALCULATE() with relationships
+-- because Cities_Silver is intentionally isolated with no
+-- active relationships to other tables — this avoids
+-- ambiguous filter path errors between Timesheets, Techs,
+-- and Clients which already have direct relationships.
+--
+-- Returns BLANK() for cities with no clients AND no techs
+-- (expansion cities with no current presence).
+--
+-- Thresholds for Pressure Label:
+--   >= 50  →  Critical Load  (#D13438)
+--   >= 35  →  High Load      (#CA5010)
+--   >= 20  →  Moderate       (#F7B900)
+--   < 20   →  Healthy        (#107C10)
+--   BLANK  →  No Data        (#8A8886)
+-- ============================================================
+
+Coverage Pressure Score =
+VAR CurrentCity = SELECTEDVALUE(Cities_Silver[CityName])
+VAR TechCount = COUNTROWS(FILTER(Techs_Silver, Techs_Silver[BasedCity] = CurrentCity))
+VAR ClientCount = COUNTROWS(FILTER(Clients_Silver, Clients_Silver[City] = CurrentCity))
+VAR CriticalTickets = COUNTROWS(FILTER(Tickets_Silver, RELATED(Clients_Silver[City]) = CurrentCity && Tickets_Silver[Priority] = "Critical" && Tickets_Silver[Status] <> "Resolved"))
+VAR HighTickets = COUNTROWS(FILTER(Tickets_Silver, RELATED(Clients_Silver[City]) = CurrentCity && Tickets_Silver[Priority] = "High" && Tickets_Silver[Status] <> "Resolved"))
+VAR MediumTickets = COUNTROWS(FILTER(Tickets_Silver, RELATED(Clients_Silver[City]) = CurrentCity && Tickets_Silver[Priority] = "Medium" && Tickets_Silver[Status] <> "Resolved"))
+VAR LowTickets = COUNTROWS(FILTER(Tickets_Silver, RELATED(Clients_Silver[City]) = CurrentCity && Tickets_Silver[Priority] = "Low" && Tickets_Silver[Status] <> "Resolved"))
+VAR OverdueAssets = COUNTROWS(FILTER(Assets_Silver, RELATED(Clients_Silver[City]) = CurrentCity && Assets_Silver[PatchStatus] = "Overdue"))
+VAR WeightedTickets = (CriticalTickets * 4) + (HighTickets * 3) + (MediumTickets * 2) + (LowTickets * 1)
+RETURN
+IF(
+    TechCount = 0 && ClientCount = 0,
+    BLANK(),
+    DIVIDE(WeightedTickets + OverdueAssets, TechCount)
+)
