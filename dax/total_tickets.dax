@@ -1,0 +1,12 @@
+-- ============================================================
+-- Measure: Total Tickets
+-- Table:   Tickets_Silver
+--
+-- Simple count of all ticket rows in the current filter
+-- context. Used as a cross-table measure in scatter charts
+-- and other visuals where dragging the raw TicketID column
+-- from a different table does not work directly.
+-- ============================================================
+
+Total Tickets =
+COUNTROWS(Tickets_Silver)

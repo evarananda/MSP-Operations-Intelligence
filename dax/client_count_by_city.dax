@@ -1,0 +1,17 @@
+-- ============================================================
+-- Measure: Client Count by City
+-- Table:   Cities_Silver
+--
+-- Returns the number of clients located in the currently
+-- selected city. Uses FILTER() instead of relationship-based
+-- CALCULATE() to avoid ambiguous path errors caused by
+-- Cities_Silver being an isolated reference table with no
+-- active relationships to Techs_Silver or Clients_Silver.
+-- ============================================================
+
+Client Count by City =
+VAR CurrentCity = SELECTEDVALUE(Cities_Silver[CityName])
+RETURN
+COUNTROWS(
+    FILTER(Clients_Silver, Clients_Silver[City] = CurrentCity)
+)

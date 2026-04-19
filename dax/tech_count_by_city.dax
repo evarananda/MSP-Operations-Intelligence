@@ -1,0 +1,17 @@
+-- ============================================================
+-- Measure: Tech Count by City
+-- Table:   Cities_Silver
+--
+-- Returns the number of technicians based in the currently
+-- selected city. Uses FILTER() instead of relationship-based
+-- CALCULATE() to avoid ambiguous path errors caused by
+-- Cities_Silver being an isolated reference table with no
+-- active relationships to Techs_Silver or Clients_Silver.
+-- ============================================================
+
+Tech Count by City =
+VAR CurrentCity = SELECTEDVALUE(Cities_Silver[CityName])
+RETURN
+COUNTROWS(
+    FILTER(Techs_Silver, Techs_Silver[BasedCity] = CurrentCity)
+)
