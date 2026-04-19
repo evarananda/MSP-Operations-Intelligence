@@ -1,11 +1,11 @@
 # MSP Operations Intelligence
 
-A Microsoft Fabric portfolio project simulating a real-world managed service provider (MSP) analytics platform — covering ticket SLA health, asset patch compliance, timesheet utilisation, and geographic field coverage across multiple Australian cities.
+A Microsoft Fabric portfolio project simulating a real-world managed service provider (MSP) analytics platform covering **ticket SLA health, asset patch compliance, timesheet utilisation, and geographic field coverage** across multiple Australian cities.
 
 ## Business Problem
-For a managed service provider, three operational questions matter most — and having them answered in real time makes the difference between reactive and proactive support:
+For a managed service provider, three operational questions matter most, and having them answered in real time makes the difference between reactive and proactive support:
 
-1. Are we meeting SLA commitments? Which clients have tickets approaching or past breach — and who owns them?
+1. Are we meeting SLA commitments? Which clients have tickets approaching or past breach, and who owns them?
 2. Are our clients' devices healthy? Which assets are unpatched, offline, or coming up on warranty expiry?
 3. Are our hours being captured correctly? Is billable work being logged, and does it match the ticket volume per client?
 
