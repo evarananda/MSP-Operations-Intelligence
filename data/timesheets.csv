@@ -1,0 +1,121 @@
+TimesheetID,ClientID,ClientName,TechName,WorkDate,HoursLogged,Billable,WorkType,Notes
+TS-4001,C010,Brightfield Consulting,Lucas Bennett,2026-04-18,5.3,True,Onsite,Resolved network issue
+TS-4002,C005,Summit Engineering,Lucas Bennett,2026-03-27,0.8,True,Project,Teams configuration
+TS-4003,C007,Riverstone Financial,Lucas Bennett,2026-04-18,1.9,True,Maintenance,Security audit
+TS-4004,C007,Riverstone Financial,Emma Reynolds,2026-03-22,2.0,True,Helpdesk,Backup verification
+TS-4005,C007,Riverstone Financial,Priya Sharma,2026-03-23,1.8,False,Maintenance,Router config
+TS-4006,C003,Harborview Medical Centre,David Okafor,2026-04-14,0.8,True,Remote Support,Backup verification
+TS-4007,C004,Pinnacle Real Estate,Priya Sharma,2026-04-15,6.5,True,Maintenance,M365 user setup
+TS-4008,C001,Meridian Accounting Group,Lucas Bennett,2026-03-21,1.6,False,Remote Support,Teams configuration
+TS-4009,C008,Goldcrest Dental,David Okafor,2026-04-04,4.9,False,Maintenance,Hardware replacement
+TS-4010,C007,Riverstone Financial,Tom Walsh,2026-04-18,7.0,True,Helpdesk,Backup verification
+TS-4011,C008,Goldcrest Dental,Emma Reynolds,2026-04-15,2.4,True,Remote Support,Patch deployment
+TS-4012,C010,Brightfield Consulting,Lucas Bennett,2026-03-29,6.2,True,Helpdesk,Backup verification
+TS-4013,C006,Oakfield Logistics,Tom Walsh,2026-04-13,7.2,False,Maintenance,Patch deployment
+TS-4014,C010,Brightfield Consulting,David Okafor,2026-04-10,3.9,True,Helpdesk,Hardware replacement
+TS-4015,C009,Elmwood Architecture,David Okafor,2026-03-24,6.9,False,Helpdesk,Backup verification
+TS-4016,C001,Meridian Accounting Group,Emma Reynolds,2026-04-16,3.7,True,Maintenance,Security audit
+TS-4017,C001,Meridian Accounting Group,Priya Sharma,2026-04-16,2.7,False,Onsite,M365 user setup
+TS-4018,C008,Goldcrest Dental,Emma Reynolds,2026-03-23,5.6,False,Project,Patch deployment
+TS-4019,C009,Elmwood Architecture,David Okafor,2026-04-09,4.4,False,Onsite,Router config
+TS-4020,C009,Elmwood Architecture,David Okafor,2026-03-29,6.6,True,Maintenance,Hardware replacement
+TS-4021,C004,Pinnacle Real Estate,Lucas Bennett,2026-04-05,3.7,True,Project,M365 user setup
+TS-4022,C001,Meridian Accounting Group,Tom Walsh,2026-03-19,3.3,True,Project,Backup verification
+TS-4023,C009,Elmwood Architecture,Lucas Bennett,2026-03-25,2.7,True,Helpdesk,Patch deployment
+TS-4024,C004,Pinnacle Real Estate,David Okafor,2026-03-29,2.0,True,Maintenance,Hardware replacement
+TS-4025,C009,Elmwood Architecture,Tom Walsh,2026-04-01,1.3,True,Onsite,Teams configuration
+TS-4026,C009,Elmwood Architecture,Lucas Bennett,2026-04-09,4.2,True,Onsite,Backup verification
+TS-4027,C005,Summit Engineering,Tom Walsh,2026-04-12,7.1,True,Remote Support,Security audit
+TS-4028,C001,Meridian Accounting Group,Priya Sharma,2026-04-10,3.5,False,Helpdesk,Patch deployment
+TS-4029,C008,Goldcrest Dental,Emma Reynolds,2026-04-05,4.7,True,Remote Support,Teams configuration
+TS-4030,C006,Oakfield Logistics,Priya Sharma,2026-03-21,3.8,False,Maintenance,Backup verification
+TS-4031,C003,Harborview Medical Centre,Emma Reynolds,2026-03-21,1.6,False,Remote Support,Security audit
+TS-4032,C009,Elmwood Architecture,Priya Sharma,2026-03-30,4.4,True,Helpdesk,Patch deployment
+TS-4033,C009,Elmwood Architecture,Priya Sharma,2026-04-09,1.3,True,Remote Support,Security audit
+TS-4034,C009,Elmwood Architecture,Priya Sharma,2026-04-02,4.8,False,Helpdesk,Patch deployment
+TS-4035,C005,Summit Engineering,David Okafor,2026-03-31,4.6,True,Maintenance,Backup verification
+TS-4036,C004,Pinnacle Real Estate,David Okafor,2026-03-19,5.4,True,Project,Security audit
+TS-4037,C004,Pinnacle Real Estate,Tom Walsh,2026-03-22,7.1,False,Maintenance,Backup verification
+TS-4038,C008,Goldcrest Dental,Tom Walsh,2026-03-21,4.4,True,Helpdesk,Security audit
+TS-4039,C007,Riverstone Financial,Lucas Bennett,2026-04-09,1.5,True,Project,Resolved network issue
+TS-4040,C005,Summit Engineering,Lucas Bennett,2026-04-12,0.6,True,Onsite,Backup verification
+TS-4041,C003,Harborview Medical Centre,David Okafor,2026-04-03,6.5,True,Helpdesk,Security audit
+TS-4042,C007,Riverstone Financial,David Okafor,2026-04-13,5.6,True,Helpdesk,Patch deployment
+TS-4043,C008,Goldcrest Dental,Tom Walsh,2026-03-25,2.5,False,Maintenance,Security audit
+TS-4044,C007,Riverstone Financial,Lucas Bennett,2026-03-19,3.7,True,Onsite,M365 user setup
+TS-4045,C004,Pinnacle Real Estate,Tom Walsh,2026-03-30,2.3,True,Onsite,Patch deployment
+TS-4046,C005,Summit Engineering,Emma Reynolds,2026-03-21,6.1,True,Onsite,Backup verification
+TS-4047,C001,Meridian Accounting Group,Lucas Bennett,2026-04-11,1.3,False,Project,Security audit
+TS-4048,C002,Clearstone Legal,Emma Reynolds,2026-04-04,3.6,False,Maintenance,Resolved network issue
+TS-4049,C009,Elmwood Architecture,Emma Reynolds,2026-04-03,1.2,True,Helpdesk,Hardware replacement
+TS-4050,C003,Harborview Medical Centre,Lucas Bennett,2026-03-19,5.3,True,Maintenance,Resolved network issue
+TS-4051,C008,Goldcrest Dental,Tom Walsh,2026-04-10,3.0,False,Onsite,Patch deployment
+TS-4052,C010,Brightfield Consulting,Emma Reynolds,2026-03-22,6.4,True,Helpdesk,Router config
+TS-4053,C009,Elmwood Architecture,David Okafor,2026-03-28,1.6,True,Remote Support,Teams configuration
+TS-4054,C009,Elmwood Architecture,Emma Reynolds,2026-03-30,7.6,True,Project,Resolved network issue
+TS-4055,C009,Elmwood Architecture,Emma Reynolds,2026-04-17,6.7,False,Helpdesk,Router config
+TS-4056,C004,Pinnacle Real Estate,Priya Sharma,2026-03-22,5.1,True,Helpdesk,M365 user setup
+TS-4057,C002,Clearstone Legal,David Okafor,2026-04-16,3.8,False,Remote Support,Teams configuration
+TS-4058,C005,Summit Engineering,Priya Sharma,2026-03-25,2.8,False,Onsite,Teams configuration
+TS-4059,C010,Brightfield Consulting,Priya Sharma,2026-04-04,2.8,True,Helpdesk,Teams configuration
+TS-4060,C007,Riverstone Financial,Tom Walsh,2026-03-23,7.5,True,Remote Support,Patch deployment
+TS-4061,C004,Pinnacle Real Estate,David Okafor,2026-04-01,5.9,True,Project,Security audit
+TS-4062,C009,Elmwood Architecture,David Okafor,2026-03-31,4.8,False,Maintenance,Router config
+TS-4063,C002,Clearstone Legal,Emma Reynolds,2026-03-25,0.6,False,Maintenance,M365 user setup
+TS-4064,C010,Brightfield Consulting,Tom Walsh,2026-04-06,5.3,True,Remote Support,Teams configuration
+TS-4065,C006,Oakfield Logistics,Tom Walsh,2026-03-28,5.0,True,Helpdesk,Security audit
+TS-4066,C005,Summit Engineering,Emma Reynolds,2026-04-16,5.7,True,Project,Resolved network issue
+TS-4067,C007,Riverstone Financial,David Okafor,2026-03-29,4.6,True,Onsite,M365 user setup
+TS-4068,C004,Pinnacle Real Estate,David Okafor,2026-03-27,1.0,True,Remote Support,Backup verification
+TS-4069,C004,Pinnacle Real Estate,Lucas Bennett,2026-03-23,2.0,True,Maintenance,Backup verification
+TS-4070,C005,Summit Engineering,Emma Reynolds,2026-03-24,7.9,True,Remote Support,Patch deployment
+TS-4071,C007,Riverstone Financial,Tom Walsh,2026-03-24,5.5,False,Project,Security audit
+TS-4072,C002,Clearstone Legal,David Okafor,2026-03-24,3.0,True,Maintenance,Resolved network issue
+TS-4073,C004,Pinnacle Real Estate,David Okafor,2026-03-29,3.9,False,Onsite,Patch deployment
+TS-4074,C001,Meridian Accounting Group,David Okafor,2026-03-22,1.9,True,Helpdesk,Router config
+TS-4075,C001,Meridian Accounting Group,David Okafor,2026-04-16,7.8,False,Remote Support,Resolved network issue
+TS-4076,C007,Riverstone Financial,David Okafor,2026-03-30,5.6,True,Project,Resolved network issue
+TS-4077,C002,Clearstone Legal,David Okafor,2026-03-21,3.2,True,Project,M365 user setup
+TS-4078,C008,Goldcrest Dental,Priya Sharma,2026-03-21,7.7,True,Project,Router config
+TS-4079,C003,Harborview Medical Centre,David Okafor,2026-04-03,7.5,False,Helpdesk,Resolved network issue
+TS-4080,C005,Summit Engineering,Emma Reynolds,2026-03-30,7.8,True,Helpdesk,Teams configuration
+TS-4081,C009,Elmwood Architecture,Priya Sharma,2026-03-30,6.9,True,Remote Support,Hardware replacement
+TS-4082,C005,Summit Engineering,David Okafor,2026-03-29,7.9,True,Remote Support,Router config
+TS-4083,C001,Meridian Accounting Group,David Okafor,2026-04-16,7.5,False,Project,Teams configuration
+TS-4084,C008,Goldcrest Dental,Tom Walsh,2026-03-19,7.4,True,Maintenance,Patch deployment
+TS-4085,C001,Meridian Accounting Group,Emma Reynolds,2026-03-29,5.9,True,Onsite,Patch deployment
+TS-4086,C008,Goldcrest Dental,Emma Reynolds,2026-04-04,2.3,True,Maintenance,Patch deployment
+TS-4087,C001,Meridian Accounting Group,Lucas Bennett,2026-03-28,5.6,False,Onsite,Backup verification
+TS-4088,C003,Harborview Medical Centre,Priya Sharma,2026-03-21,1.0,True,Remote Support,Hardware replacement
+TS-4089,C002,Clearstone Legal,Lucas Bennett,2026-04-04,6.6,True,Helpdesk,Router config
+TS-4090,C003,Harborview Medical Centre,Emma Reynolds,2026-04-11,5.2,True,Project,Hardware replacement
+TS-4091,C007,Riverstone Financial,Priya Sharma,2026-04-01,2.0,False,Remote Support,Hardware replacement
+TS-4092,C005,Summit Engineering,Tom Walsh,2026-04-15,7.9,True,Project,Security audit
+TS-4093,C009,Elmwood Architecture,Priya Sharma,2026-03-21,0.6,True,Helpdesk,Backup verification
+TS-4094,C002,Clearstone Legal,Tom Walsh,2026-04-16,4.4,False,Onsite,M365 user setup
+TS-4095,C010,Brightfield Consulting,Lucas Bennett,2026-04-02,5.6,True,Maintenance,Router config
+TS-4096,C006,Oakfield Logistics,Lucas Bennett,2026-04-09,1.0,True,Remote Support,Hardware replacement
+TS-4097,C003,Harborview Medical Centre,Tom Walsh,2026-03-20,6.3,True,Helpdesk,Resolved network issue
+TS-4098,C009,Elmwood Architecture,Priya Sharma,2026-04-18,7.3,True,Remote Support,Security audit
+TS-4099,C003,Harborview Medical Centre,David Okafor,2026-03-29,3.3,True,Onsite,Security audit
+TS-4100,C001,Meridian Accounting Group,David Okafor,2026-03-20,3.5,True,Project,M365 user setup
+TS-4101,C006,Oakfield Logistics,Lucas Bennett,2026-04-14,1.4,False,Remote Support,Teams configuration
+TS-4102,C004,Pinnacle Real Estate,Emma Reynolds,2026-03-24,2.5,True,Onsite,Patch deployment
+TS-4103,C004,Pinnacle Real Estate,Tom Walsh,2026-04-02,5.1,False,Remote Support,Router config
+TS-4104,C008,Goldcrest Dental,Lucas Bennett,2026-03-21,4.5,True,Project,Router config
+TS-4105,C007,Riverstone Financial,David Okafor,2026-04-17,7.9,True,Helpdesk,Router config
+TS-4106,C004,Pinnacle Real Estate,Priya Sharma,2026-04-09,0.8,True,Helpdesk,Teams configuration
+TS-4107,C004,Pinnacle Real Estate,Emma Reynolds,2026-03-21,1.7,True,Maintenance,Security audit
+TS-4108,C007,Riverstone Financial,Tom Walsh,2026-04-09,5.2,True,Project,Router config
+TS-4109,C009,Elmwood Architecture,Lucas Bennett,2026-03-21,2.6,False,Onsite,Router config
+TS-4110,C007,Riverstone Financial,Priya Sharma,2026-03-27,3.0,True,Helpdesk,Security audit
+TS-4111,C005,Summit Engineering,Tom Walsh,2026-04-07,0.8,True,Onsite,Backup verification
+TS-4112,C006,Oakfield Logistics,Priya Sharma,2026-03-21,2.7,True,Onsite,Teams configuration
+TS-4113,C004,Pinnacle Real Estate,Lucas Bennett,2026-04-15,0.6,False,Project,Resolved network issue
+TS-4114,C010,Brightfield Consulting,Priya Sharma,2026-04-05,7.3,True,Onsite,Router config
+TS-4115,C005,Summit Engineering,Lucas Bennett,2026-04-14,4.3,True,Project,Patch deployment
+TS-4116,C001,Meridian Accounting Group,Tom Walsh,2026-03-25,6.8,False,Onsite,Patch deployment
+TS-4117,C003,Harborview Medical Centre,Tom Walsh,2026-04-02,1.3,True,Remote Support,Teams configuration
+TS-4118,C005,Summit Engineering,Priya Sharma,2026-03-31,0.9,True,Helpdesk,Backup verification
+TS-4119,C010,Brightfield Consulting,Tom Walsh,2026-04-12,6.7,True,Onsite,Hardware replacement
+TS-4120,C010,Brightfield Consulting,Emma Reynolds,2026-04-08,3.7,True,Remote Support,M365 user setup

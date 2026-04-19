@@ -1,0 +1,11 @@
+ClientID,ClientName,Tier,City,State,Latitude,Longitude,AccountManager,ContractStart
+C001,Meridian Accounting Group,Gold,Sydney,NSW,-33.8688,151.2093,James Carter,2023-01-15
+C002,Clearstone Legal,Gold,Brisbane,QLD,-27.4698,153.0251,Sarah Mitchell,2022-06-01
+C003,Harborview Medical Centre,Gold,Sydney,NSW,-33.8688,151.2093,James Carter,2021-11-20
+C004,Pinnacle Real Estate,Silver,Brisbane,QLD,-27.4698,153.0251,Sarah Mitchell,2023-03-10
+C005,Summit Engineering,Silver,Sydney,NSW,-33.8688,151.2093,Michael Hayes,2022-09-05
+C006,Oakfield Logistics,Silver,Melbourne,VIC,-37.8136,144.9631,Michael Hayes,2023-07-22
+C007,Riverstone Financial,Silver,Sydney,NSW,-33.8688,151.2093,James Carter,2022-02-14
+C008,Goldcrest Dental,Bronze,Brisbane,QLD,-27.4698,153.0251,Sarah Mitchell,2024-01-08
+C009,Elmwood Architecture,Bronze,Sydney,NSW,-33.8688,151.2093,Michael Hayes,2023-10-30
+C010,Brightfield Consulting,Bronze,Brisbane,QLD,-27.4698,153.0251,James Carter,2024-03-17

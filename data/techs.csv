@@ -1,0 +1,6 @@
+TechID,TechName,BasedCity,State,Latitude,Longitude,SeniorityLevel,Specialisation
+T001,David Okafor,Sydney,NSW,-33.8688,151.2093,Senior,Network & Security
+T002,Emma Reynolds,Sydney,NSW,-33.9,151.18,Mid,Microsoft 365
+T003,Lucas Bennett,Brisbane,QLD,-27.4698,153.0251,Senior,Hardware & Infrastructure
+T004,Priya Sharma,Brisbane,QLD,-27.49,153.01,Mid,Microsoft 365
+T005,Tom Walsh,Melbourne,VIC,-37.8136,144.9631,Junior,Helpdesk & Support

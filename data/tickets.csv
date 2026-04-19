@@ -1,0 +1,131 @@
+TicketID,ClientID,ClientName,ContactName,Category,Priority,Status,AssignedTech,CreatedDate,ResolvedDate
+TKT-2001,C005,Summit Engineering,Rachel Torres,Email & Exchange,Medium,Open,Tom Walsh,2026-04-19 05:02,
+TKT-2002,C010,Brightfield Consulting,Victoria Nguyen,Hardware,High,Open,Priya Sharma,2026-04-19 00:34,
+TKT-2003,C003,Harborview Medical Centre,Dr. Natalie Ford,Network,Low,In Progress,Lucas Bennett,2026-04-18 16:16,
+TKT-2004,C002,Clearstone Legal,William Turner,Hardware,High,Resolved,David Okafor,2026-04-09 19:00,2026-04-09 22:00
+TKT-2005,C004,Pinnacle Real Estate,Oliver Grant,Microsoft 365,Medium,Resolved,Emma Reynolds,2026-04-08 12:00,2026-04-08 23:52
+TKT-2006,C006,Oakfield Logistics,Liam O'Connor,Hardware,Low,Open,Lucas Bennett,2026-04-19 01:32,
+TKT-2007,C008,Goldcrest Dental,Dr. Samuel Wright,Microsoft 365,Medium,Resolved,Priya Sharma,2026-04-16 23:00,2026-04-17 17:53
+TKT-2008,C010,Brightfield Consulting,Victoria Nguyen,Backup & Recovery,Low,In Progress,Emma Reynolds,2026-04-18 14:44,
+TKT-2009,C007,Riverstone Financial,Aisha Patel,Network,Critical,Resolved,Priya Sharma,2026-04-17 19:00,2026-04-17 20:41
+TKT-2010,C002,Clearstone Legal,William Turner,Backup & Recovery,High,In Progress,Priya Sharma,2026-04-19 06:27,
+TKT-2011,C002,Clearstone Legal,Sophie Anderson,Microsoft 365,High,In Progress,Priya Sharma,2026-04-19 06:59,
+TKT-2012,C010,Brightfield Consulting,Patrick O'Brien,Hardware,Critical,Resolved,Priya Sharma,2026-04-16 10:00,2026-04-16 11:50
+TKT-2013,C002,Clearstone Legal,William Turner,Microsoft 365,Low,Resolved,David Okafor,2026-04-17 06:00,2026-04-18 01:50
+TKT-2014,C003,Harborview Medical Centre,Mei Tanaka,Security,High,Open,Priya Sharma,2026-04-19 07:08,
+TKT-2015,C010,Brightfield Consulting,Hannah Schmidt,Microsoft 365,Medium,In Progress,David Okafor,2026-04-18 17:45,
+TKT-2016,C008,Goldcrest Dental,Dr. Samuel Wright,Hardware,Medium,In Progress,Tom Walsh,2026-04-19 08:00,
+TKT-2017,C008,Goldcrest Dental,Patrick Ryan,Hardware,High,Open,Tom Walsh,2026-04-19 09:09,
+TKT-2018,C004,Pinnacle Real Estate,Chloe Martin,Network,Medium,Resolved,Priya Sharma,2026-04-16 07:00,2026-04-17 02:08
+TKT-2019,C008,Goldcrest Dental,Patrick Ryan,Email & Exchange,Medium,Resolved,Lucas Bennett,2026-04-12 04:00,2026-04-12 21:50
+TKT-2020,C005,Summit Engineering,Daniel Kim,Microsoft 365,Low,Resolved,Lucas Bennett,2026-04-04 18:00,2026-04-05 18:16
+TKT-2021,C006,Oakfield Logistics,Liam O'Connor,Security,Medium,Resolved,Priya Sharma,2026-04-10 11:00,2026-04-11 02:54
+TKT-2022,C009,Elmwood Architecture,Carlos Rivera,Microsoft 365,Medium,Resolved,Lucas Bennett,2026-04-13 22:00,2026-04-14 17:28
+TKT-2023,C002,Clearstone Legal,William Turner,Microsoft 365,Medium,Open,Tom Walsh,2026-04-19 08:45,
+TKT-2024,C010,Brightfield Consulting,Hannah Schmidt,Security,Medium,Open,David Okafor,2026-04-19 00:20,
+TKT-2025,C003,Harborview Medical Centre,Mei Tanaka,Security,Medium,Open,Tom Walsh,2026-04-19 04:14,
+TKT-2026,C010,Brightfield Consulting,Victoria Nguyen,Email & Exchange,Low,Open,Tom Walsh,2026-04-18 21:22,
+TKT-2027,C001,Meridian Accounting Group,Fiona Walsh,Microsoft 365,Critical,In Progress,David Okafor,2026-04-19 08:37,
+TKT-2028,C007,Riverstone Financial,Aisha Patel,Microsoft 365,Critical,Open,Lucas Bennett,2026-04-19 09:06,
+TKT-2029,C010,Brightfield Consulting,Hannah Schmidt,Hardware,Low,Pending Client,David Okafor,2026-04-16 17:58,
+TKT-2030,C001,Meridian Accounting Group,Margaret Chen,Backup & Recovery,Medium,Resolved,Priya Sharma,2026-04-11 18:00,2026-04-12 08:58
+TKT-2031,C004,Pinnacle Real Estate,Oliver Grant,Email & Exchange,Medium,Resolved,Tom Walsh,2026-04-13 00:00,2026-04-13 10:39
+TKT-2032,C007,Riverstone Financial,Jonathan Pierce,Email & Exchange,Low,Pending Client,David Okafor,2026-04-18 12:12,
+TKT-2033,C004,Pinnacle Real Estate,James Nguyen,Network,Low,Pending Client,Lucas Bennett,2026-04-17 02:05,
+TKT-2034,C007,Riverstone Financial,Helena Vasquez,Network,High,Open,Emma Reynolds,2026-04-19 06:14,
+TKT-2035,C003,Harborview Medical Centre,Hassan Al-Rashid,Network,Medium,In Progress,Priya Sharma,2026-04-19 08:03,
+TKT-2036,C004,Pinnacle Real Estate,Chloe Martin,Network,Medium,Open,Emma Reynolds,2026-04-19 06:18,
+TKT-2037,C001,Meridian Accounting Group,Fiona Walsh,Email & Exchange,Low,Pending Client,Priya Sharma,2026-04-17 11:54,
+TKT-2038,C002,Clearstone Legal,Sophie Anderson,Software,Medium,Resolved,Priya Sharma,2026-04-09 23:00,2026-04-10 09:43
+TKT-2039,C007,Riverstone Financial,Aisha Patel,Network,Low,Open,Lucas Bennett,2026-04-18 11:40,
+TKT-2040,C008,Goldcrest Dental,Dr. Samuel Wright,Email & Exchange,Medium,Pending Client,Lucas Bennett,2026-04-19 02:54,
+TKT-2041,C006,Oakfield Logistics,Amara Nwosu,Software,Medium,In Progress,David Okafor,2026-04-18 12:07,
+TKT-2042,C008,Goldcrest Dental,Grace Liu,Network,Medium,In Progress,David Okafor,2026-04-19 09:14,
+TKT-2043,C005,Summit Engineering,Rachel Torres,Security,Low,Open,David Okafor,2026-04-19 03:49,
+TKT-2044,C009,Elmwood Architecture,Isabelle Dupont,Hardware,Medium,Open,Tom Walsh,2026-04-19 05:35,
+TKT-2045,C007,Riverstone Financial,Helena Vasquez,Email & Exchange,Low,In Progress,Lucas Bennett,2026-04-19 08:29,
+TKT-2046,C007,Riverstone Financial,Aisha Patel,Microsoft 365,Medium,Resolved,David Okafor,2026-04-09 23:00,2026-04-10 10:31
+TKT-2047,C010,Brightfield Consulting,Patrick O'Brien,Network,Low,Pending Client,Lucas Bennett,2026-04-17 23:26,
+TKT-2048,C005,Summit Engineering,Rachel Torres,Backup & Recovery,Critical,Open,Priya Sharma,2026-04-19 09:13,
+TKT-2049,C008,Goldcrest Dental,Patrick Ryan,Email & Exchange,Low,In Progress,Tom Walsh,2026-04-19 01:13,
+TKT-2050,C008,Goldcrest Dental,Grace Liu,Microsoft 365,High,Open,Tom Walsh,2026-04-19 07:55,
+TKT-2051,C006,Oakfield Logistics,Amara Nwosu,Software,Medium,Pending Client,David Okafor,2026-04-19 03:05,
+TKT-2052,C001,Meridian Accounting Group,Margaret Chen,Email & Exchange,Critical,Resolved,David Okafor,2026-04-14 15:00,2026-04-14 17:07
+TKT-2053,C004,Pinnacle Real Estate,Chloe Martin,Backup & Recovery,Medium,Pending Client,Emma Reynolds,2026-04-18 18:43,
+TKT-2054,C005,Summit Engineering,Stefan Müller,Security,Medium,Resolved,Priya Sharma,2026-04-16 14:00,2026-04-16 22:16
+TKT-2055,C003,Harborview Medical Centre,Dr. Natalie Ford,Microsoft 365,Low,Open,David Okafor,2026-04-18 13:38,
+TKT-2056,C001,Meridian Accounting Group,Robert Singh,Security,High,Resolved,David Okafor,2026-04-05 19:00,2026-04-05 22:26
+TKT-2057,C005,Summit Engineering,Rachel Torres,Hardware,Medium,Resolved,Emma Reynolds,2026-04-10 07:00,2026-04-10 20:08
+TKT-2058,C006,Oakfield Logistics,Amara Nwosu,Microsoft 365,Medium,Resolved,Lucas Bennett,2026-04-17 05:00,2026-04-17 23:52
+TKT-2059,C002,Clearstone Legal,William Turner,Software,Low,In Progress,Lucas Bennett,2026-04-18 11:10,
+TKT-2060,C005,Summit Engineering,Stefan Müller,Hardware,Medium,Open,Tom Walsh,2026-04-19 02:36,
+TKT-2061,C008,Goldcrest Dental,Patrick Ryan,Hardware,Low,Open,Priya Sharma,2026-04-18 19:34,
+TKT-2062,C007,Riverstone Financial,Jonathan Pierce,Microsoft 365,High,In Progress,Lucas Bennett,2026-04-19 06:52,
+TKT-2063,C005,Summit Engineering,Rachel Torres,Backup & Recovery,High,Pending Client,Priya Sharma,2026-04-18 22:43,
+TKT-2064,C002,Clearstone Legal,William Turner,Network,High,Resolved,Priya Sharma,2026-04-16 18:00,2026-04-17 00:20
+TKT-2065,C002,Clearstone Legal,William Turner,Microsoft 365,Medium,Pending Client,Priya Sharma,2026-04-18 21:33,
+TKT-2066,C002,Clearstone Legal,Sophie Anderson,Email & Exchange,Medium,Pending Client,Priya Sharma,2026-04-18 17:15,
+TKT-2067,C007,Riverstone Financial,Helena Vasquez,Email & Exchange,Low,Open,David Okafor,2026-04-19 08:51,
+TKT-2068,C002,Clearstone Legal,Charles Obi,Security,Medium,In Progress,Tom Walsh,2026-04-19 02:52,
+TKT-2069,C009,Elmwood Architecture,Carlos Rivera,Software,Medium,In Progress,David Okafor,2026-04-19 04:18,
+TKT-2070,C009,Elmwood Architecture,Isabelle Dupont,Network,High,In Progress,Emma Reynolds,2026-04-19 07:35,
+TKT-2071,C009,Elmwood Architecture,Isabelle Dupont,Email & Exchange,High,Resolved,Priya Sharma,2026-04-05 10:00,2026-04-05 14:48
+TKT-2072,C005,Summit Engineering,Daniel Kim,Network,Medium,Open,David Okafor,2026-04-18 14:53,
+TKT-2073,C009,Elmwood Architecture,Nathan Brooks,Email & Exchange,Medium,In Progress,Priya Sharma,2026-04-19 07:52,
+TKT-2074,C004,Pinnacle Real Estate,Chloe Martin,Network,Low,In Progress,Lucas Bennett,2026-04-18 10:42,
+TKT-2075,C005,Summit Engineering,Daniel Kim,Backup & Recovery,Critical,Open,David Okafor,2026-04-19 08:22,
+TKT-2076,C008,Goldcrest Dental,Patrick Ryan,Hardware,Medium,In Progress,Tom Walsh,2026-04-19 04:53,
+TKT-2077,C007,Riverstone Financial,Aisha Patel,Software,Low,Open,David Okafor,2026-04-18 22:26,
+TKT-2078,C007,Riverstone Financial,Helena Vasquez,Network,Low,Pending Client,Tom Walsh,2026-04-18 13:30,
+TKT-2079,C005,Summit Engineering,Rachel Torres,Security,High,Resolved,Lucas Bennett,2026-04-09 11:00,2026-04-09 19:52
+TKT-2080,C001,Meridian Accounting Group,Robert Singh,Backup & Recovery,High,Pending Client,Priya Sharma,2026-04-19 06:20,
+TKT-2081,C009,Elmwood Architecture,Isabelle Dupont,Email & Exchange,Medium,Pending Client,Emma Reynolds,2026-04-19 02:41,
+TKT-2082,C001,Meridian Accounting Group,Robert Singh,Software,Medium,Resolved,Lucas Bennett,2026-04-17 08:00,2026-04-18 00:03
+TKT-2083,C006,Oakfield Logistics,Benjamin Clarke,Microsoft 365,Medium,In Progress,Tom Walsh,2026-04-19 02:29,
+TKT-2084,C006,Oakfield Logistics,Amara Nwosu,Email & Exchange,Medium,Resolved,Priya Sharma,2026-04-18 05:00,2026-04-18 14:46
+TKT-2085,C003,Harborview Medical Centre,Mei Tanaka,Backup & Recovery,Critical,Pending Client,Priya Sharma,2026-04-19 08:42,
+TKT-2086,C003,Harborview Medical Centre,Dr. Natalie Ford,Email & Exchange,Low,Open,David Okafor,2026-04-17 04:38,
+TKT-2087,C003,Harborview Medical Centre,Hassan Al-Rashid,Hardware,Medium,Open,David Okafor,2026-04-18 22:14,
+TKT-2088,C010,Brightfield Consulting,Victoria Nguyen,Hardware,Medium,In Progress,David Okafor,2026-04-19 03:05,
+TKT-2089,C010,Brightfield Consulting,Hannah Schmidt,Security,Medium,Open,Emma Reynolds,2026-04-19 03:58,
+TKT-2090,C008,Goldcrest Dental,Patrick Ryan,Email & Exchange,Low,Open,David Okafor,2026-04-19 04:12,
+TKT-2091,C009,Elmwood Architecture,Carlos Rivera,Hardware,Medium,In Progress,Lucas Bennett,2026-04-19 08:54,
+TKT-2092,C005,Summit Engineering,Stefan Müller,Backup & Recovery,Medium,Open,Priya Sharma,2026-04-19 03:24,
+TKT-2093,C008,Goldcrest Dental,Dr. Samuel Wright,Hardware,Low,In Progress,David Okafor,2026-04-18 19:02,
+TKT-2094,C006,Oakfield Logistics,Amara Nwosu,Backup & Recovery,Medium,Open,Priya Sharma,2026-04-19 07:03,
+TKT-2095,C009,Elmwood Architecture,Nathan Brooks,Software,Medium,Open,Emma Reynolds,2026-04-19 04:33,
+TKT-2096,C009,Elmwood Architecture,Isabelle Dupont,Software,Medium,Open,Emma Reynolds,2026-04-18 16:34,
+TKT-2097,C006,Oakfield Logistics,Amara Nwosu,Network,Low,In Progress,Emma Reynolds,2026-04-19 02:10,
+TKT-2098,C002,Clearstone Legal,Charles Obi,Hardware,Medium,Resolved,Lucas Bennett,2026-04-08 17:00,2026-04-08 23:28
+TKT-2099,C007,Riverstone Financial,Aisha Patel,Hardware,Low,Resolved,David Okafor,2026-04-13 08:00,2026-04-14 10:47
+TKT-2100,C010,Brightfield Consulting,Patrick O'Brien,Hardware,Low,In Progress,Priya Sharma,2026-04-19 06:27,
+TKT-2101,C003,Harborview Medical Centre,Dr. Natalie Ford,Hardware,Low,Pending Client,Lucas Bennett,2026-04-16 12:04,
+TKT-2102,C008,Goldcrest Dental,Patrick Ryan,Hardware,High,Open,Priya Sharma,2026-04-19 07:04,
+TKT-2103,C007,Riverstone Financial,Jonathan Pierce,Microsoft 365,Medium,In Progress,Priya Sharma,2026-04-18 11:21,
+TKT-2104,C003,Harborview Medical Centre,Mei Tanaka,Email & Exchange,Low,Resolved,Priya Sharma,2026-04-10 02:00,2026-04-11 04:22
+TKT-2105,C008,Goldcrest Dental,Patrick Ryan,Security,Low,Pending Client,Emma Reynolds,2026-04-18 12:08,
+TKT-2106,C007,Riverstone Financial,Aisha Patel,Email & Exchange,Medium,Open,Lucas Bennett,2026-04-19 02:38,
+TKT-2107,C004,Pinnacle Real Estate,Chloe Martin,Security,Medium,Pending Client,David Okafor,2026-04-19 03:04,
+TKT-2108,C002,Clearstone Legal,Sophie Anderson,Security,Low,Open,Tom Walsh,2026-04-19 02:39,
+TKT-2109,C010,Brightfield Consulting,Patrick O'Brien,Microsoft 365,High,Open,Lucas Bennett,2026-04-19 09:03,
+TKT-2110,C004,Pinnacle Real Estate,Chloe Martin,Software,Low,In Progress,Tom Walsh,2026-04-18 10:43,
+TKT-2111,C006,Oakfield Logistics,Amara Nwosu,Hardware,Low,Resolved,Tom Walsh,2026-04-10 14:00,2026-04-11 20:59
+TKT-2112,C006,Oakfield Logistics,Liam O'Connor,Backup & Recovery,Critical,In Progress,Lucas Bennett,2026-04-19 07:22,
+TKT-2113,C005,Summit Engineering,Daniel Kim,Software,Medium,Open,Priya Sharma,2026-04-19 06:02,
+TKT-2114,C004,Pinnacle Real Estate,Oliver Grant,Software,Medium,Resolved,David Okafor,2026-04-09 21:00,2026-04-10 14:33
+TKT-2115,C005,Summit Engineering,Daniel Kim,Software,Medium,In Progress,Tom Walsh,2026-04-19 06:32,
+TKT-2116,C005,Summit Engineering,Stefan Müller,Software,Medium,In Progress,Tom Walsh,2026-04-19 04:17,
+TKT-2117,C006,Oakfield Logistics,Liam O'Connor,Microsoft 365,Low,Pending Client,Priya Sharma,2026-04-18 15:52,
+TKT-2118,C002,Clearstone Legal,Charles Obi,Network,Medium,In Progress,Tom Walsh,2026-04-19 02:20,
+TKT-2119,C009,Elmwood Architecture,Nathan Brooks,Security,Medium,Resolved,David Okafor,2026-04-13 07:00,2026-04-14 01:49
+TKT-2120,C004,Pinnacle Real Estate,Chloe Martin,Security,Low,Resolved,Tom Walsh,2026-04-06 13:00,2026-04-08 12:40
+TKT-2121,C005,Summit Engineering,Rachel Torres,Security,Medium,In Progress,Emma Reynolds,2026-04-19 03:27,
+TKT-2122,C005,Summit Engineering,Stefan Müller,Email & Exchange,High,Open,David Okafor,2026-04-19 09:11,
+TKT-2123,C006,Oakfield Logistics,Amara Nwosu,Backup & Recovery,Medium,Pending Client,Emma Reynolds,2026-04-18 17:36,
+TKT-2124,C009,Elmwood Architecture,Carlos Rivera,Hardware,Medium,In Progress,Lucas Bennett,2026-04-19 07:47,
+TKT-2125,C001,Meridian Accounting Group,Fiona Walsh,Software,Low,Open,David Okafor,2026-04-19 01:36,
+TKT-2126,C003,Harborview Medical Centre,Hassan Al-Rashid,Microsoft 365,Low,In Progress,Priya Sharma,2026-04-16 23:08,
+TKT-2127,C006,Oakfield Logistics,Benjamin Clarke,Email & Exchange,High,Resolved,Lucas Bennett,2026-04-18 05:00,2026-04-18 08:21
+TKT-2128,C004,Pinnacle Real Estate,James Nguyen,Software,Medium,Resolved,Emma Reynolds,2026-04-15 12:00,2026-04-15 18:47
+TKT-2129,C003,Harborview Medical Centre,Mei Tanaka,Network,Medium,Open,Lucas Bennett,2026-04-19 05:51,
+TKT-2130,C002,Clearstone Legal,William Turner,Microsoft 365,Low,Pending Client,David Okafor,2026-04-18 10:32,

@@ -1,0 +1,151 @@
+AssetID,ClientID,ClientName,DeviceName,DeviceType,OSVersion,PatchStatus,LastSeen,WarrantyExpiry,AssignedTech
+AST-3001,C001,Meridian Accounting Group,Meridian-SER-001,Server,Windows Server 2019,Fully Patched,2026-04-13 11:00,2026-10-21,Emma Reynolds
+AST-3002,C001,Meridian Accounting Group,Meridian-NAS-002,NAS,DSM 7.2,Patch Pending,2026-04-08 20:00,2026-09-02,David Okafor
+AST-3003,C001,Meridian Accounting Group,Meridian-SER-003,Server,Windows Server 2022,Fully Patched,2026-04-13 02:00,2027-06-01,Lucas Bennett
+AST-3004,C001,Meridian Accounting Group,Meridian-FIR-004,Firewall,FortiOS 7.2,Excluded,2026-04-14 10:00,2026-02-24,Emma Reynolds
+AST-3005,C001,Meridian Accounting Group,Meridian-SER-005,Server,Windows Server 2016,Fully Patched,2026-04-12 14:00,2026-10-15,David Okafor
+AST-3006,C001,Meridian Accounting Group,Meridian-NAS-006,NAS,DSM 7.2,Fully Patched,2026-04-08 20:00,2027-12-16,Lucas Bennett
+AST-3007,C001,Meridian Accounting Group,Meridian-DES-007,Desktop,Windows 11 23H2,Excluded,2026-04-09 10:00,2028-08-28,Priya Sharma
+AST-3008,C001,Meridian Accounting Group,Meridian-SER-008,Server,Windows Server 2019,Excluded,2026-04-12 11:00,2027-05-19,Tom Walsh
+AST-3009,C001,Meridian Accounting Group,Meridian-LAP-009,Laptop,Windows 11 22H2,Excluded,2026-04-07 11:00,2026-12-14,David Okafor
+AST-3010,C001,Meridian Accounting Group,Meridian-FIR-010,Firewall,FortiOS 7.4,Fully Patched,2026-04-06 19:00,2026-11-29,Lucas Bennett
+AST-3011,C001,Meridian Accounting Group,Meridian-NET-011,Network Switch,Firmware 15.2,Fully Patched,2026-04-18 15:00,2027-03-13,David Okafor
+AST-3012,C001,Meridian Accounting Group,Meridian-LAP-012,Laptop,Windows 11 23H2,Fully Patched,2026-04-17 15:00,2027-04-24,Lucas Bennett
+AST-3013,C002,Clearstone Legal,Clearstone-DES-013,Desktop,Windows 10 21H2,Fully Patched,2026-04-11 05:00,2026-10-23,Priya Sharma
+AST-3014,C002,Clearstone Legal,Clearstone-DES-014,Desktop,Windows 10 22H2,Excluded,2026-04-10 03:00,2027-10-15,Emma Reynolds
+AST-3015,C002,Clearstone Legal,Clearstone-NAS-015,NAS,DSM 7.1,Patch Pending,2026-04-13 20:00,2027-01-06,Emma Reynolds
+AST-3016,C002,Clearstone Legal,Clearstone-LAP-016,Laptop,Windows 11 22H2,Patch Pending,2026-04-10 00:00,2027-02-14,Tom Walsh
+AST-3017,C002,Clearstone Legal,Clearstone-NET-017,Network Switch,Firmware 16.0,Fully Patched,2026-04-17 09:00,2026-12-26,David Okafor
+AST-3018,C002,Clearstone Legal,Clearstone-LAP-018,Laptop,Windows 11 23H2,Overdue,2026-04-16 02:00,2026-10-29,Emma Reynolds
+AST-3019,C002,Clearstone Legal,Clearstone-DES-019,Desktop,Windows 10 22H2,Overdue,2026-04-15 21:00,2027-04-15,David Okafor
+AST-3020,C002,Clearstone Legal,Clearstone-DES-020,Desktop,Windows 10 21H2,Fully Patched,2026-04-15 01:00,2028-04-09,Tom Walsh
+AST-3021,C002,Clearstone Legal,Clearstone-NET-021,Network Switch,Firmware 16.0,Patch Pending,2026-04-09 09:00,2027-03-23,Tom Walsh
+AST-3022,C002,Clearstone Legal,Clearstone-NET-022,Network Switch,Firmware 16.0,Excluded,2026-04-16 00:00,2027-09-25,Priya Sharma
+AST-3023,C002,Clearstone Legal,Clearstone-DES-023,Desktop,Windows 10 21H2,Overdue,2026-04-06 01:00,2026-07-23,David Okafor
+AST-3024,C002,Clearstone Legal,Clearstone-NAS-024,NAS,TrueNAS 13.0,Fully Patched,2026-04-17 12:00,2026-07-03,Tom Walsh
+AST-3025,C002,Clearstone Legal,Clearstone-FIR-025,Firewall,FortiOS 7.2,Overdue,2026-04-11 20:00,2027-05-20,Priya Sharma
+AST-3026,C002,Clearstone Legal,Clearstone-DES-026,Desktop,Windows 10 21H2,Fully Patched,2026-04-08 06:00,2026-11-29,Tom Walsh
+AST-3027,C002,Clearstone Legal,Clearstone-NAS-027,NAS,DSM 7.2,Excluded,2026-04-14 06:00,2028-07-03,Lucas Bennett
+AST-3028,C002,Clearstone Legal,Clearstone-FIR-028,Firewall,FortiOS 7.4,Fully Patched,2026-04-05 03:00,2027-02-28,Emma Reynolds
+AST-3029,C002,Clearstone Legal,Clearstone-NAS-029,NAS,DSM 7.2,Patch Pending,2026-04-14 09:00,2026-05-16,Priya Sharma
+AST-3030,C003,Harborview Medical Centre,Harborview-NET-030,Network Switch,Firmware 14.8,Fully Patched,2026-04-13 21:00,2026-10-09,Emma Reynolds
+AST-3031,C003,Harborview Medical Centre,Harborview-FIR-031,Firewall,pfSense 2.7,Fully Patched,2026-04-14 17:00,2025-11-25,Lucas Bennett
+AST-3032,C003,Harborview Medical Centre,Harborview-LAP-032,Laptop,Windows 11 23H2,Patch Pending,2026-04-06 05:00,2027-04-30,Tom Walsh
+AST-3033,C003,Harborview Medical Centre,Harborview-LAP-033,Laptop,Windows 10 22H2,Overdue,2026-04-16 05:00,2026-10-27,Tom Walsh
+AST-3034,C003,Harborview Medical Centre,Harborview-SER-034,Server,Windows Server 2022,Overdue,2026-04-15 13:00,2026-05-18,Priya Sharma
+AST-3035,C003,Harborview Medical Centre,Harborview-LAP-035,Laptop,Windows 11 22H2,Patch Pending,2026-04-09 04:00,2028-01-15,Tom Walsh
+AST-3036,C003,Harborview Medical Centre,Harborview-FIR-036,Firewall,FortiOS 7.4,Patch Pending,2026-04-07 02:00,2028-05-08,Tom Walsh
+AST-3037,C003,Harborview Medical Centre,Harborview-FIR-037,Firewall,FortiOS 7.4,Fully Patched,2026-04-09 06:00,2026-05-18,David Okafor
+AST-3038,C003,Harborview Medical Centre,Harborview-NAS-038,NAS,TrueNAS 13.0,Fully Patched,2026-04-17 12:00,2027-05-25,Tom Walsh
+AST-3039,C003,Harborview Medical Centre,Harborview-DES-039,Desktop,Windows 10 21H2,Fully Patched,2026-04-06 10:00,2026-01-18,Lucas Bennett
+AST-3040,C003,Harborview Medical Centre,Harborview-DES-040,Desktop,Windows 10 22H2,Overdue,2026-04-11 20:00,2026-02-13,Emma Reynolds
+AST-3041,C003,Harborview Medical Centre,Harborview-DES-041,Desktop,Windows 11 23H2,Fully Patched,2026-04-09 15:00,2028-04-01,Tom Walsh
+AST-3042,C003,Harborview Medical Centre,Harborview-DES-042,Desktop,Windows 10 22H2,Overdue,2026-04-14 23:00,2026-05-25,David Okafor
+AST-3043,C003,Harborview Medical Centre,Harborview-LAP-043,Laptop,Windows 11 22H2,Fully Patched,2026-04-05 07:00,2028-08-18,David Okafor
+AST-3044,C004,Pinnacle Real Estate,Pinnacle-NET-044,Network Switch,Firmware 14.8,Fully Patched,2026-04-15 01:00,2027-08-27,Tom Walsh
+AST-3045,C004,Pinnacle Real Estate,Pinnacle-NET-045,Network Switch,Firmware 16.0,Fully Patched,2026-04-03 23:00,2026-10-04,Priya Sharma
+AST-3046,C004,Pinnacle Real Estate,Pinnacle-DES-046,Desktop,Windows 11 23H2,Fully Patched,2026-04-07 10:00,2028-07-02,Lucas Bennett
+AST-3047,C004,Pinnacle Real Estate,Pinnacle-SER-047,Server,Windows Server 2019,Fully Patched,2026-04-07 05:00,2028-09-08,David Okafor
+AST-3048,C004,Pinnacle Real Estate,Pinnacle-DES-048,Desktop,Windows 10 21H2,Fully Patched,2026-04-11 01:00,2028-04-12,Priya Sharma
+AST-3049,C004,Pinnacle Real Estate,Pinnacle-FIR-049,Firewall,FortiOS 7.4,Excluded,2026-04-17 20:00,2028-04-11,Tom Walsh
+AST-3050,C004,Pinnacle Real Estate,Pinnacle-NAS-050,NAS,DSM 7.2,Fully Patched,2026-04-12 02:00,2026-03-23,Emma Reynolds
+AST-3051,C004,Pinnacle Real Estate,Pinnacle-FIR-051,Firewall,FortiOS 7.4,Fully Patched,2026-04-08 05:00,2027-01-22,Lucas Bennett
+AST-3052,C004,Pinnacle Real Estate,Pinnacle-NET-052,Network Switch,Firmware 16.0,Fully Patched,2026-04-07 18:00,2026-02-27,Tom Walsh
+AST-3053,C004,Pinnacle Real Estate,Pinnacle-FIR-053,Firewall,FortiOS 7.4,Overdue,2026-04-08 02:00,2028-02-12,Tom Walsh
+AST-3054,C004,Pinnacle Real Estate,Pinnacle-NET-054,Network Switch,Firmware 15.2,Fully Patched,2026-04-03 18:00,2027-07-27,Tom Walsh
+AST-3055,C004,Pinnacle Real Estate,Pinnacle-SER-055,Server,Windows Server 2019,Fully Patched,2026-04-15 09:00,2028-06-13,Lucas Bennett
+AST-3056,C004,Pinnacle Real Estate,Pinnacle-NET-056,Network Switch,Firmware 14.8,Excluded,2026-04-12 22:00,2026-09-07,David Okafor
+AST-3057,C005,Summit Engineering,Summit-FIR-057,Firewall,pfSense 2.7,Excluded,2026-04-10 16:00,2027-08-01,Tom Walsh
+AST-3058,C005,Summit Engineering,Summit-SER-058,Server,Windows Server 2016,Fully Patched,2026-04-11 16:00,2026-11-05,Emma Reynolds
+AST-3059,C005,Summit Engineering,Summit-SER-059,Server,Windows Server 2019,Fully Patched,2026-04-03 21:00,2026-11-19,Lucas Bennett
+AST-3060,C005,Summit Engineering,Summit-FIR-060,Firewall,pfSense 2.7,Patch Pending,2026-04-10 23:00,2028-01-09,David Okafor
+AST-3061,C005,Summit Engineering,Summit-DES-061,Desktop,Windows 10 22H2,Fully Patched,2026-04-09 15:00,2027-01-06,Emma Reynolds
+AST-3062,C005,Summit Engineering,Summit-NAS-062,NAS,DSM 7.1,Fully Patched,2026-04-06 02:00,2028-08-09,David Okafor
+AST-3063,C005,Summit Engineering,Summit-NET-063,Network Switch,Firmware 16.0,Excluded,2026-04-06 22:00,2026-08-13,David Okafor
+AST-3064,C005,Summit Engineering,Summit-FIR-064,Firewall,FortiOS 7.4,Overdue,2026-04-16 05:00,2027-03-24,Emma Reynolds
+AST-3065,C005,Summit Engineering,Summit-NAS-065,NAS,DSM 7.1,Fully Patched,2026-04-16 17:00,2028-06-06,Emma Reynolds
+AST-3066,C005,Summit Engineering,Summit-NET-066,Network Switch,Firmware 14.8,Fully Patched,2026-04-10 23:00,2028-08-08,David Okafor
+AST-3067,C005,Summit Engineering,Summit-NAS-067,NAS,TrueNAS 13.0,Overdue,2026-04-13 10:00,2027-08-03,David Okafor
+AST-3068,C005,Summit Engineering,Summit-LAP-068,Laptop,Windows 11 23H2,Fully Patched,2026-04-05 19:00,2025-11-06,Lucas Bennett
+AST-3069,C005,Summit Engineering,Summit-FIR-069,Firewall,pfSense 2.7,Overdue,2026-04-12 05:00,2027-11-19,Emma Reynolds
+AST-3070,C006,Oakfield Logistics,Oakfield-SER-070,Server,Windows Server 2022,Patch Pending,2026-04-08 19:00,2026-08-05,David Okafor
+AST-3071,C006,Oakfield Logistics,Oakfield-LAP-071,Laptop,Windows 11 22H2,Fully Patched,2026-04-10 06:00,2027-06-04,Lucas Bennett
+AST-3072,C006,Oakfield Logistics,Oakfield-DES-072,Desktop,Windows 11 23H2,Patch Pending,2026-04-07 15:00,2027-05-29,David Okafor
+AST-3073,C006,Oakfield Logistics,Oakfield-FIR-073,Firewall,FortiOS 7.2,Fully Patched,2026-04-16 22:00,2027-06-28,Tom Walsh
+AST-3074,C006,Oakfield Logistics,Oakfield-LAP-074,Laptop,Windows 11 23H2,Fully Patched,2026-04-04 03:00,2026-07-25,Lucas Bennett
+AST-3075,C006,Oakfield Logistics,Oakfield-NAS-075,NAS,TrueNAS 13.0,Fully Patched,2026-04-17 07:00,2028-03-18,David Okafor
+AST-3076,C006,Oakfield Logistics,Oakfield-DES-076,Desktop,Windows 10 22H2,Patch Pending,2026-04-03 23:00,2027-09-24,Tom Walsh
+AST-3077,C006,Oakfield Logistics,Oakfield-FIR-077,Firewall,pfSense 2.7,Fully Patched,2026-04-14 02:00,2025-11-18,Emma Reynolds
+AST-3078,C006,Oakfield Logistics,Oakfield-FIR-078,Firewall,FortiOS 7.4,Fully Patched,2026-04-18 15:00,2028-04-23,Tom Walsh
+AST-3079,C006,Oakfield Logistics,Oakfield-DES-079,Desktop,Windows 10 21H2,Patch Pending,2026-04-03 23:00,2027-12-14,Priya Sharma
+AST-3080,C006,Oakfield Logistics,Oakfield-DES-080,Desktop,Windows 10 21H2,Fully Patched,2026-04-15 02:00,2028-04-26,David Okafor
+AST-3081,C006,Oakfield Logistics,Oakfield-LAP-081,Laptop,Windows 11 22H2,Fully Patched,2026-04-09 16:00,2027-02-23,Lucas Bennett
+AST-3082,C006,Oakfield Logistics,Oakfield-SER-082,Server,Windows Server 2022,Patch Pending,2026-04-07 15:00,2026-03-13,Lucas Bennett
+AST-3083,C007,Riverstone Financial,Riverstone-FIR-083,Firewall,FortiOS 7.4,Fully Patched,2026-04-05 11:00,2028-03-18,Emma Reynolds
+AST-3084,C007,Riverstone Financial,Riverstone-DES-084,Desktop,Windows 11 23H2,Patch Pending,2026-04-17 23:00,2025-10-26,Lucas Bennett
+AST-3085,C007,Riverstone Financial,Riverstone-LAP-085,Laptop,Windows 11 22H2,Patch Pending,2026-04-12 03:00,2026-11-18,Tom Walsh
+AST-3086,C007,Riverstone Financial,Riverstone-DES-086,Desktop,Windows 11 23H2,Patch Pending,2026-04-06 04:00,2027-05-03,Emma Reynolds
+AST-3087,C007,Riverstone Financial,Riverstone-LAP-087,Laptop,Windows 11 23H2,Patch Pending,2026-04-13 16:00,2026-03-23,Tom Walsh
+AST-3088,C007,Riverstone Financial,Riverstone-NAS-088,NAS,TrueNAS 13.0,Fully Patched,2026-04-09 16:00,2027-01-21,Tom Walsh
+AST-3089,C007,Riverstone Financial,Riverstone-FIR-089,Firewall,pfSense 2.7,Overdue,2026-04-16 22:00,2027-10-05,Priya Sharma
+AST-3090,C007,Riverstone Financial,Riverstone-FIR-090,Firewall,FortiOS 7.2,Fully Patched,2026-04-12 13:00,2028-04-24,Lucas Bennett
+AST-3091,C007,Riverstone Financial,Riverstone-NET-091,Network Switch,Firmware 14.8,Fully Patched,2026-04-11 09:00,2028-09-19,Emma Reynolds
+AST-3092,C007,Riverstone Financial,Riverstone-NAS-092,NAS,TrueNAS 13.0,Patch Pending,2026-04-10 19:00,2027-11-22,Emma Reynolds
+AST-3093,C007,Riverstone Financial,Riverstone-FIR-093,Firewall,FortiOS 7.2,Overdue,2026-04-07 00:00,2027-04-14,Priya Sharma
+AST-3094,C007,Riverstone Financial,Riverstone-FIR-094,Firewall,FortiOS 7.2,Fully Patched,2026-04-14 08:00,2027-04-05,Emma Reynolds
+AST-3095,C007,Riverstone Financial,Riverstone-SER-095,Server,Windows Server 2022,Fully Patched,2026-04-17 08:00,2028-03-14,Tom Walsh
+AST-3096,C007,Riverstone Financial,Riverstone-DES-096,Desktop,Windows 11 23H2,Fully Patched,2026-04-06 03:00,2027-12-29,David Okafor
+AST-3097,C007,Riverstone Financial,Riverstone-NET-097,Network Switch,Firmware 15.2,Fully Patched,2026-04-09 03:00,2028-07-27,Tom Walsh
+AST-3098,C007,Riverstone Financial,Riverstone-FIR-098,Firewall,FortiOS 7.4,Fully Patched,2026-04-07 22:00,2026-02-16,Lucas Bennett
+AST-3099,C007,Riverstone Financial,Riverstone-NET-099,Network Switch,Firmware 16.0,Fully Patched,2026-04-10 10:00,2027-04-03,Lucas Bennett
+AST-3100,C008,Goldcrest Dental,Goldcrest-LAP-100,Laptop,Windows 11 22H2,Fully Patched,2026-04-17 14:00,2026-12-11,Tom Walsh
+AST-3101,C008,Goldcrest Dental,Goldcrest-DES-101,Desktop,Windows 11 23H2,Fully Patched,2026-04-07 21:00,2028-08-24,Emma Reynolds
+AST-3102,C008,Goldcrest Dental,Goldcrest-NAS-102,NAS,DSM 7.1,Fully Patched,2026-04-13 13:00,2025-12-11,Lucas Bennett
+AST-3103,C008,Goldcrest Dental,Goldcrest-SER-103,Server,Windows Server 2022,Fully Patched,2026-04-14 14:00,2027-11-04,Lucas Bennett
+AST-3104,C008,Goldcrest Dental,Goldcrest-NET-104,Network Switch,Firmware 15.2,Fully Patched,2026-04-03 21:00,2027-12-15,Lucas Bennett
+AST-3105,C008,Goldcrest Dental,Goldcrest-FIR-105,Firewall,FortiOS 7.2,Patch Pending,2026-04-16 23:00,2027-09-07,Tom Walsh
+AST-3106,C008,Goldcrest Dental,Goldcrest-LAP-106,Laptop,Windows 11 23H2,Overdue,2026-04-11 00:00,2026-07-31,Emma Reynolds
+AST-3107,C008,Goldcrest Dental,Goldcrest-NET-107,Network Switch,Firmware 15.2,Fully Patched,2026-04-11 06:00,2028-06-30,Priya Sharma
+AST-3108,C008,Goldcrest Dental,Goldcrest-NET-108,Network Switch,Firmware 16.0,Overdue,2026-04-13 03:00,2028-04-01,Emma Reynolds
+AST-3109,C008,Goldcrest Dental,Goldcrest-FIR-109,Firewall,FortiOS 7.4,Overdue,2026-04-11 09:00,2026-09-01,Priya Sharma
+AST-3110,C008,Goldcrest Dental,Goldcrest-SER-110,Server,Windows Server 2016,Fully Patched,2026-04-16 03:00,2025-11-18,Tom Walsh
+AST-3111,C008,Goldcrest Dental,Goldcrest-SER-111,Server,Windows Server 2022,Patch Pending,2026-04-18 17:00,2026-02-03,Priya Sharma
+AST-3112,C008,Goldcrest Dental,Goldcrest-NET-112,Network Switch,Firmware 16.0,Fully Patched,2026-04-05 08:00,2027-12-15,David Okafor
+AST-3113,C008,Goldcrest Dental,Goldcrest-FIR-113,Firewall,FortiOS 7.2,Overdue,2026-04-08 13:00,2028-03-16,Priya Sharma
+AST-3114,C008,Goldcrest Dental,Goldcrest-DES-114,Desktop,Windows 10 21H2,Fully Patched,2026-04-05 13:00,2028-07-07,David Okafor
+AST-3115,C008,Goldcrest Dental,Goldcrest-SER-115,Server,Windows Server 2022,Fully Patched,2026-04-18 15:00,2025-12-24,Priya Sharma
+AST-3116,C008,Goldcrest Dental,Goldcrest-FIR-116,Firewall,FortiOS 7.4,Patch Pending,2026-04-17 07:00,2027-01-26,Lucas Bennett
+AST-3117,C008,Goldcrest Dental,Goldcrest-NAS-117,NAS,DSM 7.1,Overdue,2026-04-09 18:00,2026-06-24,Tom Walsh
+AST-3118,C009,Elmwood Architecture,Elmwood-NAS-118,NAS,DSM 7.1,Excluded,2026-04-18 16:00,2026-07-29,Lucas Bennett
+AST-3119,C009,Elmwood Architecture,Elmwood-NAS-119,NAS,DSM 7.2,Fully Patched,2026-04-08 19:00,2026-10-26,Priya Sharma
+AST-3120,C009,Elmwood Architecture,Elmwood-LAP-120,Laptop,Windows 11 22H2,Fully Patched,2026-04-17 16:00,2026-09-29,David Okafor
+AST-3121,C009,Elmwood Architecture,Elmwood-NET-121,Network Switch,Firmware 16.0,Fully Patched,2026-04-12 11:00,2027-08-18,David Okafor
+AST-3122,C009,Elmwood Architecture,Elmwood-DES-122,Desktop,Windows 10 21H2,Patch Pending,2026-04-14 10:00,2026-02-13,David Okafor
+AST-3123,C009,Elmwood Architecture,Elmwood-FIR-123,Firewall,pfSense 2.7,Fully Patched,2026-04-04 00:00,2027-07-25,Tom Walsh
+AST-3124,C009,Elmwood Architecture,Elmwood-FIR-124,Firewall,FortiOS 7.4,Fully Patched,2026-04-18 16:00,2027-05-28,Emma Reynolds
+AST-3125,C009,Elmwood Architecture,Elmwood-SER-125,Server,Windows Server 2022,Patch Pending,2026-04-17 14:00,2027-11-27,Lucas Bennett
+AST-3126,C009,Elmwood Architecture,Elmwood-DES-126,Desktop,Windows 11 23H2,Excluded,2026-04-08 00:00,2028-07-08,Tom Walsh
+AST-3127,C009,Elmwood Architecture,Elmwood-LAP-127,Laptop,Windows 11 23H2,Fully Patched,2026-04-16 00:00,2027-08-15,David Okafor
+AST-3128,C009,Elmwood Architecture,Elmwood-NET-128,Network Switch,Firmware 15.2,Fully Patched,2026-04-09 20:00,2028-01-06,Priya Sharma
+AST-3129,C009,Elmwood Architecture,Elmwood-DES-129,Desktop,Windows 10 22H2,Fully Patched,2026-04-17 13:00,2028-02-11,Tom Walsh
+AST-3130,C009,Elmwood Architecture,Elmwood-FIR-130,Firewall,FortiOS 7.4,Fully Patched,2026-04-08 14:00,2025-10-31,David Okafor
+AST-3131,C009,Elmwood Architecture,Elmwood-SER-131,Server,Windows Server 2016,Fully Patched,2026-04-14 18:00,2028-01-04,Tom Walsh
+AST-3132,C009,Elmwood Architecture,Elmwood-FIR-132,Firewall,FortiOS 7.2,Fully Patched,2026-04-11 01:00,2028-09-28,Lucas Bennett
+AST-3133,C009,Elmwood Architecture,Elmwood-DES-133,Desktop,Windows 11 23H2,Patch Pending,2026-04-07 16:00,2025-12-29,Tom Walsh
+AST-3134,C010,Brightfield Consulting,Brightfield-LAP-134,Laptop,Windows 11 23H2,Fully Patched,2026-04-12 18:00,2026-11-12,Priya Sharma
+AST-3135,C010,Brightfield Consulting,Brightfield-DES-135,Desktop,Windows 10 21H2,Fully Patched,2026-04-17 21:00,2026-05-01,Emma Reynolds
+AST-3136,C010,Brightfield Consulting,Brightfield-NET-136,Network Switch,Firmware 16.0,Fully Patched,2026-04-13 10:00,2028-08-12,Priya Sharma
+AST-3137,C010,Brightfield Consulting,Brightfield-DES-137,Desktop,Windows 11 23H2,Overdue,2026-04-07 13:00,2027-05-25,Priya Sharma
+AST-3138,C010,Brightfield Consulting,Brightfield-NAS-138,NAS,DSM 7.1,Fully Patched,2026-04-05 18:00,2027-02-26,Lucas Bennett
+AST-3139,C010,Brightfield Consulting,Brightfield-NAS-139,NAS,TrueNAS 13.0,Overdue,2026-04-06 17:00,2027-02-21,Priya Sharma
+AST-3140,C010,Brightfield Consulting,Brightfield-DES-140,Desktop,Windows 10 22H2,Overdue,2026-04-07 15:00,2028-05-28,Emma Reynolds
+AST-3141,C010,Brightfield Consulting,Brightfield-LAP-141,Laptop,Windows 10 22H2,Fully Patched,2026-04-14 19:00,2028-04-08,David Okafor
+AST-3142,C010,Brightfield Consulting,Brightfield-NET-142,Network Switch,Firmware 14.8,Fully Patched,2026-04-14 23:00,2026-06-06,David Okafor
+AST-3143,C010,Brightfield Consulting,Brightfield-DES-143,Desktop,Windows 11 23H2,Patch Pending,2026-04-13 07:00,2028-04-22,Lucas Bennett
+AST-3144,C010,Brightfield Consulting,Brightfield-DES-144,Desktop,Windows 10 22H2,Overdue,2026-04-06 20:00,2028-04-07,Priya Sharma
+AST-3145,C010,Brightfield Consulting,Brightfield-NET-145,Network Switch,Firmware 16.0,Fully Patched,2026-04-17 09:00,2026-03-19,David Okafor
+AST-3146,C010,Brightfield Consulting,Brightfield-NAS-146,NAS,DSM 7.2,Fully Patched,2026-04-07 22:00,2027-08-03,Tom Walsh
+AST-3147,C010,Brightfield Consulting,Brightfield-NAS-147,NAS,DSM 7.1,Fully Patched,2026-04-13 16:00,2028-09-13,Emma Reynolds
+AST-3148,C010,Brightfield Consulting,Brightfield-DES-148,Desktop,Windows 10 22H2,Fully Patched,2026-04-18 16:00,2028-02-09,Emma Reynolds
+AST-3149,C010,Brightfield Consulting,Brightfield-NET-149,Network Switch,Firmware 16.0,Fully Patched,2026-04-08 02:00,2027-06-03,David Okafor
+AST-3150,C010,Brightfield Consulting,Brightfield-LAP-150,Laptop,Windows 11 23H2,Overdue,2026-04-06 14:00,2028-04-21,Tom Walsh
